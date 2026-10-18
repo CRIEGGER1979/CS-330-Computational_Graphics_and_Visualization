@@ -93,8 +93,8 @@ This architecture supports readability, reusability, and future expansion.
 ---
 
 ## 📁 Folder Structure
+
 CS-330-Computational_Graphics_and_Visualization/
-│
 ├── Source/                     # C++ source files
 ├── Textures/                   # Texture assets
 ├── Debug/                      # Optional build output
